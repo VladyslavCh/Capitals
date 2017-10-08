@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Country&amp;Capitals_v02</string>
+
+    <string name="textPlay">Play</string>
+    <string name="textStudying">Учеба</string>
+    <string name="textTest">Тестирование</string>
+
+    <string name="item1">главное окно</string>
+    <string name="item2">finish</string>
+
+    <string name="textAboutCapital">подсказка</string>
+    <string name="about">
+        Главная цель приложения - улучшить знания столиц стран мира. Доступны два режима пользования приложением.
+        1)Учеба - можно получить подсказку и/или узнать больше информации о столице.
+        Переход к следующему вопросу осуществляется только после правильного ответа.
+        2)Тестирование - переход к следующему вопросу осуществляется как после правильного ответа, так и не правильного, а также по истечении времени.
+    </string>
+
+
+    <string name="country">Country</string>
+    <string name="capital">Capital</string>
+
+    <string name="ukraine">Украина</string>
+    <string name="poland">Польша</string>
+    <string name="italy">Италия</string>
+    <string name="spain">ИСпания</string>
+
+
+    <string name="madrid">Мадрид</string>
+    <string name="barcelona">Барселона</string>
+
+    <string name="warsaw">Варшава</string>
+    <string name="krakow">Краков</string>
+
+    <string name="oslo">Осло</string>
+
+    <string name="kiev">Киев</string>
+    <string name="lviv">Львов</string>
+
+    <string name="milan">Милан</string>
+    <string name="minsk">Минск</string>
+    <string name="rome">Рим</string>
+    <string name="finish">Finish</string>
+    <string name="correctAnswers">Правильные ответы:</string>
+    <string name="wrongAnswers">Неправильные ответы:</string>
+
+    <string name="europe">Европа</string>
+    <string name="asia">Азия</string>
+    <string name="northAmerica">Северная Америка</string>
+    <string name="southAmerica">Южная Америка</string>
+    <string name="africa">Африка</string>
+    <string name="australia">Австралия и океания</string>
+    <string name="allCountries">Все страны</string>
+    <string name="aboutApp">О приложении</string>
+
+    <string name="mainMenu">&lt;</string>
+
+
+</resources>
